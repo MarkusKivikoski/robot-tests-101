@@ -8,5 +8,6 @@ Test Case 1
     Say Hello World
 
 Example Test
-    New Page    https://www.google.com/
-    Get Title   ==  Google
+    New Page    http://espoonkopsu.fi:8022/
+    Get Title   ==  Things
+    
